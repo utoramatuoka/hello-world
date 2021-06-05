@@ -1,2 +1,3 @@
 # hello-world
-hello
+こんにちは
+よろしくお願いします
